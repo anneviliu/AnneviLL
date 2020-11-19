@@ -2,6 +2,7 @@
 
 - A member of  **Vidar-Team** \  Student at HDU🏫
 - CTFer \ 💻Web Security \ Developer 
+- Language: Golang \ PHP \ javascript \
 - Email: anneviliu@gmail.com
 - GitHub: https://github.com/AnneviLL
 - Wechat: AnneviLiu
