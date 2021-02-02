@@ -9,5 +9,4 @@
 
 <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneviLL&layout=compact&theme=onedark&hide=html"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Annevi&theme=onedark"/>
-![Visitor Count](https://profile-counter.glitch.me/AnneviLL/count.svg)
-
+<img src="https://profile-counter.glitch.me/AnneviLL/count.svg"/>
