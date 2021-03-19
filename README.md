@@ -9,6 +9,5 @@
 - Wechat: AnneviLiu
 
 <img algin="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneviLL&layout=compact&theme=onedark&hide=html"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Annevi&theme=onedark"/>
 <img src="https://profile-counter.glitch.me/AnneviLL/count.svg"/>
 since 2021.1
